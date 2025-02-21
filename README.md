@@ -4,6 +4,8 @@
 🔭 **Currently Working On:** Full-Stack Web Development & AI Research  
 📚 **Learning:** Java, Python, Machine Learning, web development  
 💡 **Interests:** Game Development, Quantum Computing, UI/UX Design 
+
+
 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/jasmin1105) | [Email](mailto:shaikjasmine1105@gmail.com)  
 
 ---
