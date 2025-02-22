@@ -8,7 +8,7 @@
 - 🌍 Dreaming of working in Japan & traveling the world
 
 💡 **Fun Facts:**  
-- 🎵 I enjoy listening to **K-pop & Lo-Fi while coding.**  
+- 🎵 I enjoy listening to **K-pop while coding.**  
 - 🏆 Participated in **Smart India Hackathon 2024** 🚀  
 - 📖 Always exploring **new tech trends & innovations.**
 
