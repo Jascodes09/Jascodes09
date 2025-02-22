@@ -9,7 +9,7 @@
 
 💡 **Fun Facts:**  
 - 🎵 I enjoy listening to **K-pop while coding.**  
-- 🏆 Participated in **Smart India Hackathon 2024** 🚀  
+- 🏆 **Finalist in Smart India Hackathon 2024** – Competed in one of India's biggest innovation challenges, solving real-world problems with technology. 🚀  
 - 📖 Always exploring **new tech trends & innovations.**
 
 🎯 **Goals for 2025:**  
