@@ -15,7 +15,8 @@
 🎯 **Goals for 2025:**  
 - Master **Data Structures & Algorithms**  
 - Build my **first AI-powered web application**  
-- Contribute to **open-source projects**    
+- Contribute to **open-source projects**
+- Get a **job**  
 
 
 ## 🌍 **My Tech Stack**  
@@ -71,7 +72,7 @@
 ![Jasmine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jascodes09&show_icons=true&theme=tokyonight)
   
 
-💬 _“Code. Create. Innovate.”_  
+💬 _“Code. Create. Innovate.”_   
 
 
 
