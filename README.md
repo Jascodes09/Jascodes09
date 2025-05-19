@@ -5,7 +5,6 @@
 - 🎮 Learning Java and python for Development
 - 🤖 Exploring AI & ML & Quantum Computing
 - ✈️ Passionate about Game Development, Aerospace & UX/UI Design
-- 🌍 Dreaming of working in Japan & traveling the world
 
 💡 **Fun Facts:**  
 - 🎵 I enjoy listening to **K-pop while coding.**  
